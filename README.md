@@ -20,11 +20,7 @@
 ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
-<!--![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
-![Windicss](https://img.shields.io/badge/-WindiCss-%23000000?style=flat-square&logo=tailwind-css&&logoColor=48B0F1)-->
 
-<!--![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
-![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)-->
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
@@ -40,28 +36,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=hasanugr&style=flat&color=orange)
 
-<!--
-### Some of My Github Stats📈
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanugr&layout=compact&count_private=true&theme=algolia) ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanugr&include_all_commits=true&show_icons=true&theme=algolia) <br>
-![Profile views](https://komarev.com/ghpvc/?username=hasanugr)
--->
-
-### Contact to Me💬
+## Contact to Me💬
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasanugr/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hasan.ugur4535@gmail.com)](mailto:hasan.ugur4535@gmail.com)
-
-
-<!--
-**hasanugr/hasanugr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
