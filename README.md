@@ -38,7 +38,7 @@
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![Profile views](https://komarev.com/ghpvc/?username=hasanugr)
+![Profile views](https://komarev.com/ghpvc/?username=hasanugr&style=flat&color=orange)
 
 <!--
 ### Some of My Github Stats📈
