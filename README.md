@@ -9,7 +9,7 @@
 - 🕹 I like to play competitive fps games like R6, CS:GO.
 - 👨‍💻 I developed several mobile games for fun with Unity.
   (Example: <a href="https://play.google.com/store/apps/details?id=com.MoliteGames.DriveAndDestroy">Drive And Destroy</a>)
-- ✉️ How to reach me: hasan.ugur4535@gmail.com
+- ✉️ How to reach me: hasanugurdev@gmail.com
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
